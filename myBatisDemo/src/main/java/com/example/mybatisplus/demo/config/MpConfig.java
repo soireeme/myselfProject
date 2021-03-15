@@ -22,20 +22,25 @@ import java.util.Scanner;
  */
 public class MpConfig {
     public static void main(String[] args) {
-        try{
+        try {
             // 1、创建代码生成器
             AutoGenerator mpg = new AutoGenerator();
             // 2、全局配置
             GlobalConfig gc = new GlobalConfig();
             String projectPath = System.getProperty("user.dir");
-            gc.setOutputDir("E:\\yurun\\workspace\\myBatisDemo" + "/src/main/java/");//项目的本地路径加上代码生成的位置。
-            gc.setAuthor("honglei");//作
+            gc.setOutputDir("E:\\honglei\\myselfProject\\myBatisDemo" + "/src/main/java/");
+            //项目的本地路径加上代码生成的位置。
+            gc.setAuthor("honglei");
 
-            gc.setOpen(false); //生成后是否打开资源管理器
-            gc.setFileOverride(false); //重新生成时文件是否覆盖
-            gc.setServiceName("%sService");	//去掉Service接口的首字母I
+            gc.setOpen(false);
+            //生成后是否打开资源管理器
+            gc.setFileOverride(false);
+            //重新生成时文件是否覆盖
+            gc.setServiceName("%sService");
+            //去掉Service接口的首字母I
             //gc.setIdType(IdType.ID_WORKER_STR); //主键策略
-            gc.setDateType(DateType.ONLY_DATE);//定义生成的实体类中日期类型
+            gc.setDateType(DateType.ONLY_DATE);
+            //定义生成的实体类中日期类型
             //gc.setSwagger2(true);//开启Swagger2模式（如果没有用swagger可以去掉这句）
 
             mpg.setGlobalConfig(gc);
@@ -60,26 +65,29 @@ public class MpConfig {
 
             // 5、策略配置
             StrategyConfig strategy = new StrategyConfig();
-            strategy.setInclude("demo");//（数据库中的表，根据这个给数据表生成对应的controller，entity，service，mapper代码）
-            strategy.setNaming(NamingStrategy.underline_to_camel);//数据库表映射到实体的命名策略
-            strategy.setTablePrefix(pc.getModuleName() + "_"); //生成实体时去掉表前缀
+            strategy.setInclude("jeecg_monthly_growth_analysis");
+            //（数据库中的表，根据这个给数据表生成对应的controller，entity，service，mapper代码）
+            strategy.setNaming(NamingStrategy.underline_to_camel);
+            //数据库表映射到实体的命名策略
+            strategy.setTablePrefix(pc.getModuleName() + "_");
+            //生成实体时去掉表前缀
 
-            strategy.setColumnNaming(NamingStrategy.underline_to_camel);//数据库表字段映射到实体的命名策略
-            strategy.setEntityLombokModel(true); // lombok 模型 @Accessors(chain = true) setter链式操作
+            strategy.setColumnNaming(NamingStrategy.underline_to_camel);
+            //数据库表字段映射到实体的命名策略
+            strategy.setEntityLombokModel(true);
+            // lombok 模型 @Accessors(chain = true) setter链式操作
 
-            strategy.setRestControllerStyle(true); //restful api风格控制器
-            strategy.setControllerMappingHyphenStyle(true); //url中驼峰转连字符
-
+            strategy.setRestControllerStyle(true);
+            //restful api风格控制器
+            strategy.setControllerMappingHyphenStyle(true);
+            //url中驼峰转连字符
             mpg.setStrategy(strategy);
             mpg.execute();
 
-        }catch (Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
-
-
-
 
 
     public static String scanner(String tip) {
