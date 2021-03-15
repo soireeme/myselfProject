@@ -5,14 +5,98 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72ff4d2-fc95-4ded-be96-373272af2809" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/demo_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/demo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mybatisPlus_001_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mybatisPlus_001_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_43.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_43.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/application/myBatisDemo/myBatisDemo.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/audit/audit.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/point/point.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HongLeiTestDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/myselfProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myBatisDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myBatisDemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/config/MpConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/config/MpConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/mapper/JeecgMonthlyGrowthAnalysisMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/mapper/JeecgMonthlyGrowthAnalysisMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/service/JeecgMonthlyGrowthAnalysisService.java" beforeDir="false" afterPath="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/service/JeecgMonthlyGrowthAnalysisService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/service/impl/JeecgMonthlyGrowthAnalysisServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/service/impl/JeecgMonthlyGrowthAnalysisServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myBatisDemo/src/test/java/com/example/mybatisplus/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myBatisDemo/src/test/java/com/example/mybatisplus/demo/JeecgMonthlyGrowthAnalysisServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/myBatisDemo/src/test/java/com/example/mybatisplus/demo/JeecgMonthlyGrowthAnalysisServiceImplTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/test_project/target/" />
     <ignored path="$PROJECT_DIR$/demo001/target/" />
     <ignored path="$PROJECT_DIR$/demo002/target/" />
+    <ignored path="$PROJECT_DIR$/myBatisDemo/target/" />
+    <ignored path="$PROJECT_DIR$/mybatisPlus_001/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,14 +176,59 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-588690993">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="7" />
+          <entry key="java" value="43" />
+          <entry key="pom" value="2" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="16" />
+          <entry key="yml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="7" />
+          <entry key="JAVA" value="43" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="18" />
+          <entry key="YAML" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="555" />
+          <entry key="xml" value="87" />
+          <entry key="yml" value="117" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="555" />
+          <entry key="SQL" value="2" />
+          <entry key="XML" value="85" />
+          <entry key="YAML" value="117" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo002/src/main/java/com/example/demo/UseDemo/UserLoginToken.java">
+        <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/config/MybatisPlusConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="-63">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,34 +237,65 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo002/src/main/java/com/example/demo/UseDemo/ToeknUtils.java">
+        <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/service/impl/JeecgMonthlyGrowthAnalysisServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            <state relative-caret-position="162">
+              <caret line="21" column="50" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#877#878#0" expanded="true" />
+                <element signature="e#922#923#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo002/src/main/java/com/example/demo/UseDemo/UserApi.java">
+        <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/mapper/JeecgMonthlyGrowthAnalysisMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="304">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/resources/logback-spring.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo002/src/main/java/com/example/demo/jwtTest/JWTTest.java">
+        <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="304">
+              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myBatisDemo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="83" column="26" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/service/JeecgMonthlyGrowthAnalysisService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myBatisDemo/src/test/java/com/example/mybatisplus/demo/JeecgMonthlyGrowthAnalysisServiceImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="52" column="36" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,43 +304,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo002/src/main/java/com/example/demo/UseDemo/AuthenticationInterceptor.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar!/org/junit/jupiter/engine/execution/MethodInvocation.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1444">
-              <caret line="76" column="66" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="66" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="89">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo002/src/main/java/com/example/demo/UseDemo/InterceptorConfig.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.4.1/mybatis-plus-core-3.4.1.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE-sources.jar!/org/springframework/web/context/request/AbstractRequestAttributes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE-sources.jar!/org/springframework/web/context/request/ServletRequestAttributes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4997">
-              <caret line="297" column="45" selection-start-line="297" selection-start-column="45" selection-end-line="297" selection-end-column="45" />
+            <state relative-caret-position="358">
+              <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -197,6 +333,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>package com\.example\.demo\.UseDemo\;\n\nimport org\.springframework\.beans\.factory\.annotation\.Autowired\;\nimport org\.springframework\.web\.bind\.annotation\.PostMapping\;\nimport org\.springframework\.web\.bind\.annotation\.RequestMapping\;\nimport org\.springframework\.web\.bind\.annotation\.RestController\;\n\n\/\*\*\n \* \@author soiree\n \* \@version 1\.0\n \* \@date 2021\/2\/24 11\:14\n \* \@desp\n \*\/\n\@RestController\n\@RequestMapping\(\&quot;api\&quot;\)\npublic class UserApi \{\n\n\n    \/\/登录\n    \@PostMapping\(\&quot;\/login\&quot;\)\n    public Object login\(\@RequestBody User user\)\{\n        JSONObject jsonObject\=new JSONObject\(\)\;\n        User userForBase\=userService\.findByUsername\(user\)\;\n        if\(userForBase\=\=null\)\{\n            jsonObject\.put\(\&quot;message\&quot;\,\&quot;登录失败\,用户不存在\&quot;\)\;\n            return jsonObject\;\n        \}else \{\n            if \(\!userForBase\.getPassword\(\)\.equals\(user\.getPassword\(\)\)\)\{\n                jsonObject\.put\(\&quot;message\&quot;\,\&quot;登录失败\,密码错误\&quot;\)\;\n                return jsonObject\;\n            \}else \{\n                String token \= tokenService\.getToken\(userForBase\)\;\n                jsonObject\.put\(\&quot;token\&quot;\, token\)\;\n                jsonObject\.put\(\&quot;user\&quot;\, userForBase\)\;\n                return jsonObject\;\n            \}\n        \}\n    \}\n    \@UserLoginToken\n    \@GetMapping\(\&quot;\/getMessage\&quot;\)\n    public String getMessage\(\)\{\n        return \&quot;你已通过验证\&quot;\;\n    \}\n\}</find>
+      <find>web</find>
+      <find>lom</find>
+      <find>bao</find>
+      <find>genger</find>
+      <find>mybatis</find>
     </findStrings>
     <dirStrings>
       <dir>E:\honglei\TestDemo\test_project</dir>
@@ -234,6 +375,25 @@
         <option value="$PROJECT_DIR$/demo002/src/main/java/com/example/demo/UseDemo/PassToken.java" />
         <option value="$PROJECT_DIR$/demo002/src/main/java/com/example/demo/UseDemo/UserLoginToken.java" />
         <option value="$PROJECT_DIR$/demo002/src/main/java/com/example/demo/UseDemo/UserApi.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/pojo/JeecgMonthlyGrowthAnalysis.java" />
+        <option value="$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/config/MpConfig.java" />
+        <option value="$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/service/JeecgMonthlyGrowthAnalysisService.java" />
+        <option value="$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/service/impl/JeecgMonthlyGrowthAnalysisServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/mapper/JeecgMonthlyGrowthAnalysisMapper.java" />
+        <option value="$PROJECT_DIR$/mybatisPlus_001/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisPlus_001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/resources/resource/JeecgMonthlyGrowthAnalysisMapper.xml" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/service/JeecgMonthlyGrowthAnalysisService.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/config/MybatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/config/MpConfig.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/test/java/com/example/mybatisplus/demo/DemoApplicationTests.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/mapper/JeecgMonthlyGrowthAnalysisMapper.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/service/impl/JeecgMonthlyGrowthAnalysisServiceImpl.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/test/java/com/example/mybatisplus/demo/JeecgMonthlyGrowthAnalysisServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -268,23 +428,146 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="TestDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TestDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
               <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -293,11 +576,12 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/honglei/myselfProject/myBatisDemo/src/test/java/com/example/mybatisplus/demo/DemoApplicationTests.java&#10;JeecgMonthlyGrowthAnalysisMapper&#9;FILE&#9;file://E:/honglei/myselfProject/myBatisDemo/src/main/java/com/example/mybatisplus/demo/mapper/JeecgMonthlyGrowthAnalysisMapper.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615617457452" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615789202003" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/project/soireeCloud" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -306,11 +590,23 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\honglei\myselfProject\myBatisDemo\src\main\resources\mapper" />
+      <recent name="E:\honglei\myselfProject\myBatisDemo\src\main\resources\resource\mapper" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\honglei\myselfProject\myBatisDemo\src\main\resources" />
+      <recent name="E:\honglei\myselfProject\mybatisPlus_001\src\main\java\com\example\mybatisplus\demo\demo" />
+      <recent name="E:\honglei\myselfProject\myBatisDemo\src\main\resources\resource" />
       <recent name="E:\honglei\TestDemo\myBatisDemo" />
     </key>
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -322,29 +618,93 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoApplication">
-    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
-      <module name="demo002" />
+  <component name="RunManager" selected="JUnit.JeecgMonthlyGrowthAnalysisServiceImplTest.test002">
+    <configuration name="DemoApplicationTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisPlus_001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.example.mybatisplus.demo.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.example.mybatisplus.demo.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.mybatisplus.demo.demo.DemoApplicationTests" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JWTTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.jwtTest.JWTTest" />
-      <module name="demo002" />
+    <configuration name="DemoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myBatisDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.jwtTest.*" />
+          <option name="PATTERN" value="com.example.mybatisplus.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.example.mybatisplus.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.mybatisplus.demo.DemoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JeecgMonthlyGrowthAnalysisServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myBatisDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mybatisplus.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.mybatisplus.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.mybatisplus.demo.JeecgMonthlyGrowthAnalysisServiceImplTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JeecgMonthlyGrowthAnalysisServiceImplTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myBatisDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mybatisplus.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.mybatisplus.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.mybatisplus.demo.JeecgMonthlyGrowthAnalysisServiceImplTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JeecgMonthlyGrowthAnalysisServiceImplTest.test002" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myBatisDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mybatisplus.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.mybatisplus.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.mybatisplus.demo.JeecgMonthlyGrowthAnalysisServiceImplTest" />
+      <option name="METHOD_NAME" value="test002" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="myBatisDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mybatisplus.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatisPlus_001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mybatisplus.demo.demo.DemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -358,13 +718,21 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.DemoApplication" />
-      <item itemvalue="Application.JWTTest" />
-      <item itemvalue="Application.DemoApplication" />
+      <item itemvalue="Spring Boot.DemoApplication (1)" />
+      <item itemvalue="Spring Boot.DemoApplication (2)" />
+      <item itemvalue="JUnit.JeecgMonthlyGrowthAnalysisServiceImplTest" />
+      <item itemvalue="JUnit.DemoApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.DemoApplicationTests (1)" />
+      <item itemvalue="JUnit.JeecgMonthlyGrowthAnalysisServiceImplTest.test" />
+      <item itemvalue="JUnit.JeecgMonthlyGrowthAnalysisServiceImplTest.test002" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoApplication" />
-        <item itemvalue="Application.JWTTest" />
+        <item itemvalue="JUnit.JeecgMonthlyGrowthAnalysisServiceImplTest.test002" />
+        <item itemvalue="JUnit.JeecgMonthlyGrowthAnalysisServiceImplTest" />
+        <item itemvalue="JUnit.JeecgMonthlyGrowthAnalysisServiceImplTest.test" />
+        <item itemvalue="JUnit.DemoApplicationTests (1)" />
+        <item itemvalue="JUnit.DemoApplicationTests.contextLoads" />
       </list>
     </recent_temporary>
   </component>
@@ -388,6 +756,9 @@
       <workItem from="1614644881669" duration="1526000" />
       <workItem from="1615617171061" duration="306000" />
       <workItem from="1615617496006" duration="72000" />
+      <workItem from="1615617603310" duration="232000" />
+      <workItem from="1615619328317" duration="5276000" />
+      <workItem from="1615769413637" duration="9359000" />
     </task>
     <task id="LOCAL-00001" summary="测试文件">
       <created>1614044754156</created>
@@ -431,14 +802,61 @@
       <option name="project" value="LOCAL" />
       <updated>1615617466007</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="测试文件">
+      <created>1615617625356</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615617625356</updated>
+    </task>
+    <task id="LOCAL-00008" summary="测试文件">
+      <created>1615774561993</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615774561993</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="JeecgMonthlyGrowthAnalysisServiceImplTest - 2021.03.15 at 09h 51m 21s.xml">
+      <configuration name="JeecgMonthlyGrowthAnalysisServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JeecgMonthlyGrowthAnalysisServiceImplTest_test - 2021.03.15 at 09h 59m 48s.xml">
+      <configuration name="JeecgMonthlyGrowthAnalysisServiceImplTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JeecgMonthlyGrowthAnalysisServiceImplTest_test - 2021.03.15 at 10h 02m 28s.xml">
+      <configuration name="JeecgMonthlyGrowthAnalysisServiceImplTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JeecgMonthlyGrowthAnalysisServiceImplTest_test - 2021.03.15 at 10h 03m 55s.xml">
+      <configuration name="JeecgMonthlyGrowthAnalysisServiceImplTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JeecgMonthlyGrowthAnalysisServiceImplTest - 2021.03.15 at 10h 05m 18s.xml">
+      <configuration name="JeecgMonthlyGrowthAnalysisServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JeecgMonthlyGrowthAnalysisServiceImplTest - 2021.03.15 at 10h 13m 02s.xml">
+      <configuration name="JeecgMonthlyGrowthAnalysisServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JeecgMonthlyGrowthAnalysisServiceImplTest_test002 - 2021.03.15 at 10h 29m 39s.xml">
+      <configuration name="JeecgMonthlyGrowthAnalysisServiceImplTest.test002" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JeecgMonthlyGrowthAnalysisServiceImplTest_test002 - 2021.03.15 at 13h 53m 34s.xml">
+      <configuration name="JeecgMonthlyGrowthAnalysisServiceImplTest.test002" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JeecgMonthlyGrowthAnalysisServiceImplTest_test002 - 2021.03.15 at 13h 57m 32s.xml">
+      <configuration name="JeecgMonthlyGrowthAnalysisServiceImplTest.test002" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JeecgMonthlyGrowthAnalysisServiceImplTest_test002 - 2021.03.15 at 13h 59m 14s.xml">
+      <configuration name="JeecgMonthlyGrowthAnalysisServiceImplTest.test002" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35353000" />
+    <option name="totallyTimeSpent" value="50220000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -447,28 +865,29 @@
       <window_info id="Azure Explorer" order="4" />
       <window_info id="Web" order="5" side_tool="true" />
       <window_info id="Designer" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.29389313" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.3610687" />
       <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32994923" />
-      <window_info anchor="bottom" id="Docker" order="1" weight="0.32994923" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50076336" side_tool="true" weight="0.32941177" />
-      <window_info anchor="bottom" id="Cosmos Serverless Spark Jobs" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Java Enterprise" order="4" />
-      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.4984733" visible="true" weight="0.12436975" />
-      <window_info anchor="bottom" id="Azure Activity Log" order="7" weight="0.32994923" />
-      <window_info anchor="bottom" id="Spring" order="8" weight="0.32994923" />
-      <window_info anchor="bottom" id="Message" order="9" />
-      <window_info anchor="bottom" id="Find" order="10" />
-      <window_info anchor="bottom" id="Run" order="11" weight="0.3338926" />
-      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="15" />
-      <window_info anchor="bottom" id="Debug Remote Spark Job in Cluster" order="16" />
-      <window_info anchor="bottom" id="Remote Spark Job in Cluster" order="17" />
-      <window_info anchor="bottom" id="Messages" order="18" sideWeight="0.49923664" weight="0.32941177" />
-      <window_info anchor="bottom" x="28" y="343" width="1310" height="51" id="Inspection Results" order="19" weight="0.08557047" />
+      <window_info anchor="bottom" id="Run Dashboard" order="0" sideWeight="0.49923664" weight="0.45714286" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32994923" />
+      <window_info anchor="bottom" id="Docker" order="2" weight="0.32994923" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50076336" side_tool="true" weight="0.22986577" />
+      <window_info anchor="bottom" id="Cosmos Serverless Spark Jobs" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49770993" weight="0.22986577" />
+      <window_info anchor="bottom" id="Azure Activity Log" order="8" weight="0.32994923" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.32994923" />
+      <window_info anchor="bottom" id="Message" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" />
+      <window_info anchor="bottom" id="Run" order="12" visible="true" weight="0.16806723" />
+      <window_info anchor="bottom" id="Debug" order="13" weight="0.19966443" />
+      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="16" />
+      <window_info anchor="bottom" id="Debug Remote Spark Job in Cluster" order="17" />
+      <window_info anchor="bottom" id="Remote Spark Job in Cluster" order="18" />
+      <window_info anchor="bottom" id="Messages" order="19" sideWeight="0.49923664" weight="0.12583892" />
+      <window_info anchor="bottom" x="28" y="343" width="1310" height="51" id="Inspection Results" order="20" weight="0.08557047" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Maven Projects" order="1" />
       <window_info anchor="right" id="Database" order="2" weight="0.32977098" />
@@ -481,6 +900,49 @@
       <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32977098" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Azure Explorer" order="4" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Designer" order="6" />
+      <window_info content_ui="combo" id="Project" order="7" visible="true" weight="0.3610687" />
+      <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run Dashboard" order="0" sideWeight="0.49923664" weight="0.45714286" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32994923" />
+      <window_info anchor="bottom" id="Docker" order="2" weight="0.32994923" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50076336" side_tool="true" weight="0.22986577" />
+      <window_info anchor="bottom" id="Cosmos Serverless Spark Jobs" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49770993" weight="0.22986577" />
+      <window_info anchor="bottom" id="Azure Activity Log" order="8" weight="0.32994923" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.32994923" />
+      <window_info anchor="bottom" id="Message" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" />
+      <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.5352349" />
+      <window_info anchor="bottom" id="Debug" order="13" weight="0.19966443" />
+      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="16" />
+      <window_info anchor="bottom" id="Debug Remote Spark Job in Cluster" order="17" />
+      <window_info anchor="bottom" id="Remote Spark Job in Cluster" order="18" />
+      <window_info anchor="bottom" id="Messages" order="19" sideWeight="0.49923664" weight="0.12583892" />
+      <window_info anchor="bottom" x="28" y="343" width="1310" height="51" id="Inspection Results" order="20" weight="0.08557047" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32977098" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32977098" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -544,41 +1006,16 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/myBatisDemo/src/test/java/com/example/mybatisplus/demo/JeecgMonthlyGrowthAnalysisServiceImplTest.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo001/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/test_project/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/demo002/src/test/java/com/example/demo/DemoApplicationTests.java" />
-    <entry file="file://$PROJECT_DIR$/demo002/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo002/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
@@ -623,27 +1060,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo002/src/main/java/com/example/demo/UseDemo/UserLoginToken.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
+        <state relative-caret-position="190">
           <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo002/src/main/java/com/example/demo/UseDemo/ToeknUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="228">
           <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo002/src/main/java/com/example/demo/UseDemo/UserApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="133">
           <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -651,19 +1082,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo002/src/main/java/com/example/demo/jwtTest/JWTTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo002/src/main/java/com/example/demo/UseDemo/AuthenticationInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1444">
+        <state relative-caret-position="1254">
           <caret line="76" column="66" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo002/src/main/java/com/example/demo/UseDemo/InterceptorConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
+        <state relative-caret-position="304">
           <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -673,25 +1108,267 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE-sources.jar!/org/springframework/web/context/request/AbstractRequestAttributes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
+        <state relative-caret-position="589">
           <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE-sources.jar!/org/springframework/web/context/request/ServletRequestAttributes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4997">
+        <state relative-caret-position="5130">
           <caret line="297" column="45" selection-start-line="297" selection-start-column="45" selection-end-line="297" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo002/src/main/java/com/example/demo/jwtTest/JWTTest.java">
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/service/DemoService.java" />
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/mapper/DemoMapper.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.3.2/mybatis-plus-extension-3.3.2.jar!/com/baomidou/mybatisplus/extension/service/IService.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="189">
+          <caret line="94" column="14" selection-start-line="94" selection-start-column="14" selection-end-line="94" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/mapper/xml/JeecgMonthlyGrowthAnalysisMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/ServletInitializer.java" />
+    <entry file="file://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-boot-starter/3.4.2/mybatis-plus-boot-starter-3.4.2.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="119" selection-start-line="113" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/pojo/JeecgMonthlyGrowthAnalysis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/controller/JeecgMonthlyGrowthAnalysisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/service/JeecgMonthlyGrowthAnalysisService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/test/java/com/example/mybatisplus/demo/demo/DemoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/mapper/JeecgMonthlyGrowthAnalysisMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.3.2/mybatis-plus-core-3.3.2.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/config/MpConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="48" column="85" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/service/impl/JeecgMonthlyGrowthAnalysisServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="17" column="93" selection-start-line="17" selection-start-column="93" selection-end-line="17" selection-end-column="93" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/resources/resource/mapper/JeecgMonthlyGrowthAnalysisMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/pojo/JeecgMonthlyGrowthAnalysis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/controller/JeecgMonthlyGrowthAnalysisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-generator/3.3.2/mybatis-plus-generator-3.3.2.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.4.1/mybatis-plus-extension-3.4.1.jar!/com/baomidou/mybatisplus/extension/plugins/MybatisPlusInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/test/java/com/example/mybatisplus/demo/DemoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/config/MpConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1069">
+          <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/mapper/JeecgMonthlyGrowthAnalysisMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/service/impl/JeecgMonthlyGrowthAnalysisServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.7.1/junit-platform-commons-1.7.1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="363" selection-start-line="363" selection-end-line="363" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar!/org/junit/jupiter/engine/execution/MethodInvocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.4.1/mybatis-plus-core-3.4.1.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/config/MybatisPlusConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/test/java/com/example/mybatisplus/demo/JeecgMonthlyGrowthAnalysisServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="52" column="36" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="83" column="26" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/service/JeecgMonthlyGrowthAnalysisService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>

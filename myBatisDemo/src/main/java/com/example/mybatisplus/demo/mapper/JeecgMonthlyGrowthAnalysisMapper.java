@@ -1,5 +1,7 @@
 package com.example.mybatisplus.demo.mapper;
 
+import com.baomidou.mybatisplus.core.metadata.IPage;
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.example.mybatisplus.demo.pojo.JeecgMonthlyGrowthAnalysis;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.apache.ibatis.annotations.Mapper;
@@ -18,5 +20,7 @@ import java.util.List;
 public interface JeecgMonthlyGrowthAnalysisMapper extends BaseMapper<JeecgMonthlyGrowthAnalysis> {
 
     List<JeecgMonthlyGrowthAnalysis> index(String x);
+
+
 
 }

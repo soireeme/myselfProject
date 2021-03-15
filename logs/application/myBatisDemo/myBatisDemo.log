@@ -1,0 +1,40 @@
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 10:29:35.475 INFO 13172 [] [main] com.example.mybatisplus.demo.JeecgMonthlyGrowthAnalysisServiceImplTest Starting JeecgMonthlyGrowthAnalysisServiceImplTest using Java 1.8.0_221 on soiree-legion with PID 13172 (started by soiree in E:\honglei\myselfProject\myBatisDemo)
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 10:29:35.477 INFO 13172 [] [main] com.example.mybatisplus.demo.JeecgMonthlyGrowthAnalysisServiceImplTest No active profile set, falling back to default profiles: default
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 10:29:37.959 INFO 13172 [] [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 10:29:38.330 INFO 13172 [] [main] com.example.mybatisplus.demo.JeecgMonthlyGrowthAnalysisServiceImplTest Started JeecgMonthlyGrowthAnalysisServiceImplTest in 3.39 seconds (JVM running for 4.454)
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 10:29:38.565 WARN 13172 [] [main] com.zaxxer.hikari.HikariConfig HikariPool-1 - idleTimeout is less than 10000ms, setting to default 600000ms.
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 10:29:38.566 INFO 13172 [] [main] com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 10:29:39.862 INFO 13172 [] [main] com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 10:29:39.929 INFO 13172 [] [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 10:29:39.929 INFO 13172 [] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource HikariPool-1 - Shutdown initiated...
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 10:29:39.932 INFO 13172 [] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource HikariPool-1 - Shutdown completed.
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:53:21.550 INFO 13652 [] [main] com.example.mybatisplus.demo.JeecgMonthlyGrowthAnalysisServiceImplTest Starting JeecgMonthlyGrowthAnalysisServiceImplTest using Java 1.8.0_221 on soiree-legion with PID 13652 (started by soiree in E:\honglei\myselfProject\myBatisDemo)
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:53:21.552 INFO 13652 [] [main] com.example.mybatisplus.demo.JeecgMonthlyGrowthAnalysisServiceImplTest No active profile set, falling back to default profiles: default
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:53:24.189 INFO 13652 [] [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:53:24.576 INFO 13652 [] [main] com.example.mybatisplus.demo.JeecgMonthlyGrowthAnalysisServiceImplTest Started JeecgMonthlyGrowthAnalysisServiceImplTest in 3.58 seconds (JVM running for 4.702)
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:53:24.830 WARN 13652 [] [main] com.zaxxer.hikari.HikariConfig HikariPool-1 - idleTimeout is less than 10000ms, setting to default 600000ms.
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:53:24.832 INFO 13652 [] [main] com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:53:26.129 INFO 13652 [] [main] com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:53:34.213 INFO 13652 [] [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:53:34.214 INFO 13652 [] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource HikariPool-1 - Shutdown initiated...
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:53:34.221 INFO 13652 [] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource HikariPool-1 - Shutdown completed.
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:57:27.738 INFO 17320 [] [main] com.example.mybatisplus.demo.JeecgMonthlyGrowthAnalysisServiceImplTest Starting JeecgMonthlyGrowthAnalysisServiceImplTest using Java 1.8.0_221 on soiree-legion with PID 17320 (started by soiree in E:\honglei\myselfProject\myBatisDemo)
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:57:27.740 INFO 17320 [] [main] com.example.mybatisplus.demo.JeecgMonthlyGrowthAnalysisServiceImplTest No active profile set, falling back to default profiles: default
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:57:30.063 INFO 17320 [] [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:57:30.365 INFO 17320 [] [main] com.example.mybatisplus.demo.JeecgMonthlyGrowthAnalysisServiceImplTest Started JeecgMonthlyGrowthAnalysisServiceImplTest in 3.105 seconds (JVM running for 3.98)
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:57:30.573 WARN 17320 [] [main] com.zaxxer.hikari.HikariConfig HikariPool-1 - idleTimeout is less than 10000ms, setting to default 600000ms.
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:57:30.574 INFO 17320 [] [main] com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:57:31.833 INFO 17320 [] [main] com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:57:31.928 INFO 17320 [] [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:57:31.928 INFO 17320 [] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource HikariPool-1 - Shutdown initiated...
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:57:31.931 INFO 17320 [] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource HikariPool-1 - Shutdown completed.
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:59:09.784 INFO 12292 [] [main] com.example.mybatisplus.demo.JeecgMonthlyGrowthAnalysisServiceImplTest Starting JeecgMonthlyGrowthAnalysisServiceImplTest using Java 1.8.0_221 on soiree-legion with PID 12292 (started by soiree in E:\honglei\myselfProject\myBatisDemo)
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:59:09.786 INFO 12292 [] [main] com.example.mybatisplus.demo.JeecgMonthlyGrowthAnalysisServiceImplTest No active profile set, falling back to default profiles: default
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:59:12.182 INFO 12292 [] [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:59:12.483 INFO 12292 [] [main] com.example.mybatisplus.demo.JeecgMonthlyGrowthAnalysisServiceImplTest Started JeecgMonthlyGrowthAnalysisServiceImplTest in 3.146 seconds (JVM running for 4.039)
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:59:12.719 WARN 12292 [] [main] com.zaxxer.hikari.HikariConfig HikariPool-1 - idleTimeout is less than 10000ms, setting to default 600000ms.
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:59:12.720 INFO 12292 [] [main] com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:59:13.986 INFO 12292 [] [main] com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:59:14.107 INFO 12292 [] [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:59:14.108 INFO 12292 [] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource HikariPool-1 - Shutdown initiated...
+[myBatisDemo:0.0.0.0:0000] 2021-03-15 13:59:14.121 INFO 12292 [] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource HikariPool-1 - Shutdown completed.

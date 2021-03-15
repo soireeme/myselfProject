@@ -1,5 +1,7 @@
 package com.example.mybatisplus.demo.service.impl;
 
+import com.baomidou.mybatisplus.core.metadata.IPage;
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.example.mybatisplus.demo.pojo.JeecgMonthlyGrowthAnalysis;
 import com.example.mybatisplus.demo.mapper.JeecgMonthlyGrowthAnalysisMapper;
 import com.example.mybatisplus.demo.service.JeecgMonthlyGrowthAnalysisService;
@@ -23,4 +25,12 @@ public class JeecgMonthlyGrowthAnalysisServiceImpl extends ServiceImpl<JeecgMont
     public List<JeecgMonthlyGrowthAnalysis> index(String x) {
         return  baseMapper.index("1");
     }
+
+
+
+
+
+
+
+
 }

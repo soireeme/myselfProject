@@ -17,4 +17,6 @@ public interface JeecgMonthlyGrowthAnalysisService extends IService<JeecgMonthly
 
 
     List<JeecgMonthlyGrowthAnalysis> index(String x);
+    
+
 }
