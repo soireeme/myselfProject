@@ -4,7 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b72ff4d2-fc95-4ded-be96-373272af2809" name="Default Changelist" comment="测试文件" />
+    <list default="true" id="b72ff4d2-fc95-4ded-be96-373272af2809" name="Default Changelist" comment="测试文件">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/test_project/target/" />
     <ignored path="$PROJECT_DIR$/demo001/target/" />
@@ -93,11 +95,12 @@
     <session id="-588690993">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -141,7 +144,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/config/MybatisPlusConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-63">
+            <state relative-caret-position="228">
               <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -153,7 +156,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/service/impl/JeecgMonthlyGrowthAnalysisServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
+            <state relative-caret-position="247">
               <caret line="21" column="50" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -182,7 +185,7 @@
         <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -190,7 +193,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myBatisDemo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
+            <state relative-caret-position="1577">
               <caret line="83" column="26" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
             </state>
           </provider>
@@ -199,7 +202,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/service/JeecgMonthlyGrowthAnalysisService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="285">
               <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
             </state>
           </provider>
@@ -208,7 +211,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myBatisDemo/src/test/java/com/example/mybatisplus/demo/JeecgMonthlyGrowthAnalysisServiceImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
+            <state relative-caret-position="817">
               <caret line="52" column="36" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -220,7 +223,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar!/org/junit/jupiter/engine/execution/MethodInvocation.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
+            <state relative-caret-position="589">
               <caret line="50" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
@@ -229,7 +232,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.4.1/mybatis-plus-core-3.4.1.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
+            <state relative-caret-position="741">
               <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
             </state>
           </provider>
@@ -349,134 +352,6 @@
               <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
-              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
-              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
-              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
-              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
-              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
-              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
-              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
-              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
-              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
-              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
-              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
-              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
-              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
-              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfProject" type="462c0819:PsiDirectoryNode" />
-              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -493,9 +368,9 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/honglei/myselfProject/myBatisDemo/src/test/java/com/example/mybatisplus/demo/DemoApplicationTests.java&#10;JeecgMonthlyGrowthAnalysisMapper&#9;FILE&#9;file://E:/honglei/myselfProject/myBatisDemo/src/main/java/com/example/mybatisplus/demo/mapper/JeecgMonthlyGrowthAnalysisMapper.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615789312799" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615860063410" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="E:/project/soireeCloud" />
+    <property name="last_opened_file_path" value="E:/project/honglei" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -672,7 +547,8 @@
       <workItem from="1615617496006" duration="72000" />
       <workItem from="1615617603310" duration="232000" />
       <workItem from="1615619328317" duration="5276000" />
-      <workItem from="1615769413637" duration="9760000" />
+      <workItem from="1615769413637" duration="9835000" />
+      <workItem from="1615859643906" duration="522000" />
     </task>
     <task id="LOCAL-00001" summary="测试文件">
       <created>1614044754156</created>
@@ -773,11 +649,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50621000" />
+    <option name="totallyTimeSpent" value="51218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -786,7 +661,7 @@
       <window_info id="Azure Explorer" order="4" />
       <window_info id="Web" order="5" side_tool="true" />
       <window_info id="Designer" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.3610687" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.3687023" />
       <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Run Dashboard" order="0" sideWeight="0.49923664" weight="0.45714286" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32994923" />
@@ -800,7 +675,7 @@
       <window_info anchor="bottom" id="Spring" order="9" weight="0.32994923" />
       <window_info anchor="bottom" id="Message" order="10" />
       <window_info anchor="bottom" id="Find" order="11" />
-      <window_info anchor="bottom" id="Run" order="12" visible="true" weight="0.16806723" />
+      <window_info anchor="bottom" id="Run" order="12" weight="0.16806723" />
       <window_info anchor="bottom" id="Debug" order="13" weight="0.19966443" />
       <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
@@ -1059,54 +934,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="119" selection-start-line="113" selection-end-line="119" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/pojo/JeecgMonthlyGrowthAnalysis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/controller/JeecgMonthlyGrowthAnalysisController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/service/JeecgMonthlyGrowthAnalysisService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/test/java/com/example/mybatisplus/demo/demo/DemoApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/mapper/JeecgMonthlyGrowthAnalysisMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/pojo/JeecgMonthlyGrowthAnalysis.java" />
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/controller/JeecgMonthlyGrowthAnalysisController.java" />
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/service/JeecgMonthlyGrowthAnalysisService.java" />
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/test/java/com/example/mybatisplus/demo/demo/DemoApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/mapper/JeecgMonthlyGrowthAnalysisMapper.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.3.2/mybatis-plus-core-3.3.2.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1114,51 +947,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/config/MpConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="48" column="85" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/DemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/service/impl/JeecgMonthlyGrowthAnalysisServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="17" column="93" selection-start-line="17" selection-start-column="93" selection-end-line="17" selection-end-column="93" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/config/MpConfig.java" />
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/DemoApplication.java" />
+    <entry file="file://$PROJECT_DIR$/mybatisPlus_001/src/main/java/com/example/mybatisplus/demo/demo/service/impl/JeecgMonthlyGrowthAnalysisServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/resources/resource/mapper/JeecgMonthlyGrowthAnalysisMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/resources/resource/mapper/JeecgMonthlyGrowthAnalysisMapper.xml" />
     <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/pojo/JeecgMonthlyGrowthAnalysis.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-66">
@@ -1192,38 +988,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/test/java/com/example/mybatisplus/demo/DemoApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/test/java/com/example/mybatisplus/demo/DemoApplicationTests.java" />
     <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/config/MpConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1069">
           <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/mapper/JeecgMonthlyGrowthAnalysisMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/service/impl/JeecgMonthlyGrowthAnalysisServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="21" column="50" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#877#878#0" expanded="true" />
-            <element signature="e#922#923#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1235,23 +1006,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar!/org/junit/jupiter/engine/execution/MethodInvocation.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.4.1/mybatis-plus-core-3.4.1.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/config/MybatisPlusConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
+        <state relative-caret-position="228">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1259,13 +1016,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/test/java/com/example/mybatisplus/demo/JeecgMonthlyGrowthAnalysisServiceImplTest.java">
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/service/impl/JeecgMonthlyGrowthAnalysisServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="52" column="36" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="36" />
+        <state relative-caret-position="247">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/mapper/JeecgMonthlyGrowthAnalysisMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -1274,22 +1040,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myBatisDemo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
+        <state relative-caret-position="1577">
           <caret line="83" column="26" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/example/mybatisplus/demo/service/JeecgMonthlyGrowthAnalysisService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="285">
           <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/test/java/com/example/mybatisplus/demo/JeecgMonthlyGrowthAnalysisServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="52" column="36" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar!/org/junit/jupiter/engine/execution/MethodInvocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.4.1/mybatis-plus-core-3.4.1.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>

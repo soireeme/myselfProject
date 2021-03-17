@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: demo-provider
+  cloud:
+    nacos:
+      server-addr: http://127.0.0.1:8848
+      discovery:
+        service: ${spring.application.name}
+server:
+  port: 18080
