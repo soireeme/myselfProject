@@ -21,3 +21,6 @@ mybatis-plus:
 logging:
   level:
     com.*.mapper: debug
+
+
+xxl.
